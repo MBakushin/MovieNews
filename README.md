@@ -1,0 +1,2 @@
+# MovieNews
+Training django project
